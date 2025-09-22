@@ -30,19 +30,6 @@ Key analyses and plots:
 - Top 10 countries of visitors (non-canceled bookings) with world map visualization.
 - Seasonality analysis of arrivals (monthly booking patterns).
 
-## Key Visualizations
-- Pie charts: hotel type distribution, cancellation rates, customer segments.
-- Histograms: lead time, ADR distribution.
-- Scatterplots: stays in week vs weekend nights, adults vs children per booking.
-- Heatmaps: correlation between numeric features.
-- Choropleth maps: visitor country distribution.
-- Line chart: monthly booking trends.
-
-## Exported Datasets
-- cleaned_hotel_bookings.csv → cleaned dataset ready for analysis.
-- top_countries.csv → top 10 source countries of non-canceled bookings.
-- customer_segments_by_hotel.csv → grouped data of customer segmentation by hotel.
-
 ## Usage
 ### Run in Google Colab
 1. Upload the notebook and dataset.
